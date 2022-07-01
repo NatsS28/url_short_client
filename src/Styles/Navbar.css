@@ -1,0 +1,13 @@
+.nav_root{
+    flex-grow: 1;
+}
+.title{
+    display: flex;
+    flex-grow: 1;
+    font-family: "'Montserrat', sans-serif";
+    font-weight: 500;
+}
+
+.link{
+    text-decoration: none;
+}
